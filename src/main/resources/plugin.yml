@@ -1,0 +1,4 @@
+name: DiamondExplode
+version: '${project.version}'
+main: me.logan.diamondexplode.DiamondExplode
+api-version: 1.19
